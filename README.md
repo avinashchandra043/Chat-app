@@ -23,13 +23,26 @@ Chat App is realtime private messaging application made with fully responsive de
 
 <img align="left" alt="REDUX" width="26px" src="./image/readmeAssets/material_ui.png" /> `Material UI`
 # Features
- - Build over React Js, React Router & Firebase
- - Clean and Beautiful UI Design
- - Fully Responsive Mobile Design
+- Secure Authentication System
+- Login and Sign Up Support
+- Fully Responsive Design and works on different screen sizes.
+- Beautiful and Clean UI
+- Private Chat with friends
+- Personal Profile Section
+- Profile Picture Support
+- Users Profile View
+- User Online/Offline display support
+- Chat with messages and Images
+- Share pictures among private chats
+- Sign Out/ Logout support
  # Website
+ ## Register Page
  ![](image/Screenshots/register.png)
+ ## Login Page
  ![](image/Screenshots/login.png)
+ ## Chat Page
  ![](image/Screenshots/chat.png)
+ ## User Setting Page
  ![](image/Screenshots/setting.png)
  # Links
  Click [here](https://chat-app-49bee.web.app/login) to run the app.
