@@ -30,11 +30,14 @@ Chat App is realtime private messaging application made with fully responsive de
 - Private Chat with friends
 - Personal Profile Section
 - Profile Picture Support
+- Search option to find friend
 - Users Profile View
 - User Online/Offline display support
 - Chat with messages and Images
 - Share pictures among private chats
 - Sign Out/ Logout support
+# Link
+Click [here](https://chat-app-49bee.web.app/login) to run the app.
  # Website
  ## Register Page
  ![](image/Screenshots/register.png)
@@ -44,8 +47,6 @@ Chat App is realtime private messaging application made with fully responsive de
  ![](image/Screenshots/chat.png)
  ## User Setting Page
  ![](image/Screenshots/setting.png)
- # Links
- Click [here](https://chat-app-49bee.web.app/login) to run the app.
  
  # Contact
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
