@@ -1,0 +1,141 @@
+.formContainer {
+  background-image: radial-gradient(lightgreen, rgb(3, 80, 3));
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.formWrapper {
+  background-color: white;
+  padding: 20px 60px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  width: 200px;
+  height: 450px;
+  box-shadow: 5px 5px 10px 0px rgba(33, 33, 33, 0.326);
+}
+.formWrapper > form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.logo_name {
+  color: darkgreen;
+  font-weight: 600;
+  font-size: 2em;
+  font-family: Simplifica;
+}
+.title {
+  color: darkgreen;
+  font-size: 15px;
+}
+.formWrapper > form > input {
+  padding: 10px;
+  width: 250px;
+  border: none;
+  border-bottom: 1px solid darkgreen;
+}
+.formWrapper > form > input:focus {
+  outline-width: 0px;
+}
+::placeholder {
+  color: rgb(175, 175, 175);
+  background: transparent;
+}
+.formWrapper > form > Button {
+  background-color: darkgreen;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.formWrapper > form > Button:hover {
+  background-color: rgb(0, 92, 0);
+}
+.formWrapper > p {
+  color: #5d5b8d;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.choseFile {
+  display: none;
+}
+.formWrapper > form > label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: darkgreen;
+  font-size: 12px;
+  cursor: pointer;
+}
+.login_page > form > Button {
+  margin-top: 40px;
+}
+.login_page > form > input {
+  padding: 15px;
+}
+.login_page > form {
+  margin-top: 60px;
+}
+.default_image {
+  width: 80px;
+  border-radius: 50%;
+}
+.default_set {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+label > div {
+  margin-top: -10px;
+}
+.err_message {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 95vw;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  text-size-adjust: 1.5em;
+  font-weight: 600;
+  color: red;
+  transition: 0.3s;
+}
+.user_setting_img {
+  border: 2px solid black;
+  position: relative;
+  top: -25px;
+}
+.user_setting {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.name_change > .user_setting_discard {
+  background-color: rgb(216, 32, 32);
+}
+.name_change > input {
+  align-items: center;
+  margin-bottom: 10px;
+}
+.name_change > .user_setting_discard:hover {
+  background-color: red;
+}
+.close_icon {
+  display: flex;
+  justify-content: flex-end;
+  width: 300px;
+  top: 17px;
+  position: relative;
+  cursor: pointer;
+}
