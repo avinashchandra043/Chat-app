@@ -1,9 +1,9 @@
 # **CHAT APP**
-![HTML & CSS](https://img.shields.io/badge/React%20Js-v18.2.0-red)
+![HTML & CSS](https://img.shields.io/badge/React%20Js-v18.2.0-yellow)
 ![HTML & CSS](https://img.shields.io/badge/React%20Router-v6.4-green)
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-blue)
-![HTML & CSS](https://img.shields.io/badge/Redux-Redux%20Toolkit-purple)
-![HTML & CSS](https://img.shields.io/badge/MuI-npm-orange)
+![HTML & CSS](https://img.shields.io/badge/Redux-Firebase-orange)
+![HTML & CSS](https://img.shields.io/badge/MuI-npm-purple)
 
 Chat App is realtime private messaging application made with fully responsive design and compatible with every device. Chat App is bagged with powerful authentication system, beautiful and minimal UI, private chat with users share photos along with messages in chats to enhance the experience.
 
